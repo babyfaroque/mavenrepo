@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://68.183.24.196:8081/repository/SAMPLE-REL/</url>
+            <url>http://157.230.219.12:8081/repository/myrepo/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
